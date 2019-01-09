@@ -30,8 +30,7 @@ float: right;
 
 
 .image1{
-  background: url('../images/landing.jpg') no-repeat center center;
-   height: 500px;
+  background: url('landing.jpg') no-repeat center center;   height: 500px;
    background-size: cover;
   color: white;
   text-align: center;
